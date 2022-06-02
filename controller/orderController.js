@@ -56,7 +56,6 @@ const insertOrder = async (req, res) => {
   }
 };
 
-console.log("hello");
 // Place Order
 
 async function placeOrder(req, res) {
